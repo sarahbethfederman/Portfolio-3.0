@@ -1,0 +1,12 @@
+[14-Feb-2015 18:43:48 CST6CDT] PHP Fatal error:  Class 'Walker' not found in /home/sarahbet/public_html/blog/wp-includes/nav-menu-template.php on line 16
+[14-Feb-2015 18:44:03 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/sarahbet/public_html/blog/wp-includes/author-template.php on line 454
+[14-Feb-2015 18:44:56 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/sarahbet/public_html/blog/wp-includes/general-template.php on line 1760
+[14-Feb-2015 18:45:21 CST6CDT] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/sarahbet/public_html/blog/wp-includes/rss.php on line 19
+[14-Feb-2015 18:45:54 CST6CDT] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/local/php53/pear') in /home/sarahbet/public_html/blog/wp-includes/script-loader.php on line 25
+[14-Feb-2015 18:46:24 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/sarahbet/public_html/blog/wp-includes/default-widgets.php on line 14
+[14-Feb-2015 18:46:25 CST6CDT] PHP Fatal error:  Call to undefined function add_filter() in /home/sarahbet/public_html/blog/wp-includes/default-filters.php on line 17
+[14-Feb-2015 18:47:10 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/sarahbet/public_html/blog/wp-includes/kses.php on line 1455
+[14-Feb-2015 18:47:12 CST6CDT] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/local/php53/pear') in /home/sarahbet/public_html/blog/wp-includes/functions.php on line 8
+[14-Feb-2015 18:47:33 CST6CDT] PHP Fatal error:  Call to undefined function is_admin() in /home/sarahbet/public_html/blog/wp-includes/vars.php on line 23
+[14-Feb-2015 18:47:37 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/sarahbet/public_html/blog/wp-includes/taxonomy.php on line 130
+[14-Feb-2015 18:47:40 CST6CDT] PHP Fatal error:  Call to undefined function add_filter() in /home/sarahbet/public_html/blog/wp-includes/shortcodes.php on line 403
